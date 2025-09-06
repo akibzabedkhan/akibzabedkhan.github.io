@@ -26,3 +26,17 @@ Dr. [Agoritsa Polyzou](https://apolyzou123.github.io/apolyzou/), Assistant Profe
 CPSC 256: C/C++ Programming for Engineers and Scientists- Fall 2025 <br>
 CPSC 255: Programming for Applications (Java)- Fall 2025
 
+# Recognitions and Scholarships
+- 2nd place winner, Graduate Scholarly Forum (poster session), FIU, April 2025. <br>
+- Dissertation Fellowship, University Graduate School, FIU, Spring 2025 to Summer 2025. <br>
+- Travel Scholarship, 17th International Conference on Educational Data Mining, USA, 2024. <br>
+- Student Government Association (SGA) Graduate Scholarship, FIU, Fall 2023 to Spring 2024. <br>
+- Student Ambassador, 16th International Conference on Educational Data Mining, India, 2023.
+<br> <br>
+
+# Professional Activities
+- IEEE Member (Professional)
+- Reviewer of journals and conference papers:
+  - Data Mining and Knowledge Discovery, (Springer Nature Journal)
+  - The International Journal of Electrical and Computer Engineering Systems (IJECES)
+  - EAAI: The Symposium on Educational Advances in Artificial Intelligence (Conference)
