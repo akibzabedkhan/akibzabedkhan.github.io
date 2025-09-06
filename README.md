@@ -8,6 +8,9 @@ Hello! I am Md Akib Zabed Khan, an Assistant Professor of the School of Engineer
 Email: akibzabed.khan@cnu.edu, akibcseju21@gmail.com
 
 School of Engineering and Computing
+
 Christopher Newport University
-1 Avenue of the Arts,
+
+1 Avenue of the Arts
+
 Newport News, VA 23606.
