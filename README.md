@@ -25,6 +25,7 @@ Dr. [Agoritsa Polyzou](https://apolyzou123.github.io/apolyzou/), Assistant Profe
 # Teaching
 CPSC 256: C/C++ Programming for Engineers and Scientists- Fall 2025 <br>
 CPSC 255: Programming for Applications (Java)- Fall 2025
+<br> <br>
 
 # Recognitions and Scholarships
 - 2nd place winner, Graduate Scholarly Forum (poster session), FIU, April 2025. <br>
