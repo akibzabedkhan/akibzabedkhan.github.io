@@ -15,11 +15,11 @@ Newport News, VA 23606. <br>
 ___
 
 # PhD Advisor
-Dr. Agoritsa Polyzou, Assistant Professor, KFSCIS, FIU. Her profile: https://apolyzou123.github.io/apolyzou/.
+Dr. [Agoritsa Polyzou](https://apolyzou123.github.io/apolyzou/), Assistant Professor, KFSCIS, FIU.
 <br> <br>
 
 # Publications
-Google Scholar profile: https://scholar.google.com/citations?user=wCqMfLEAAAAJ&hl=en.
+[Google Scholar profile of Dr. Khan](https://scholar.google.com/citations?user=wCqMfLEAAAAJ&hl=en).
 <br> <br>
 
 # Teaching
