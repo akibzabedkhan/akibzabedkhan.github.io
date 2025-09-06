@@ -1,5 +1,3 @@
-<div align="center">
-title: Md Akib Zabed Khan
-description: Assistant Professor, Christopher Newport University
-</div>
+<h1 align="center">title: Md Akib Zabed Khan</h1>
+<h3 align="center">description: Assistant Professor, Christopher Newport University</h3>
 theme: jekyll-theme-minimal
