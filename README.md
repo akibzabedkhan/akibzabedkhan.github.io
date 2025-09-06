@@ -23,6 +23,6 @@ Google Scholar profile: https://scholar.google.com/citations?user=wCqMfLEAAAAJ&h
 <br> <br>
 
 # Teaching
-CPSC 256: C/C++ Programming for Engineers and Scientists- Fall 2025
+CPSC 256: C/C++ Programming for Engineers and Scientists- Fall 2025 <br>
 CPSC 255: Programming for Applications (Java)- Fall 2025
 
