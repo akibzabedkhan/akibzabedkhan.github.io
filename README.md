@@ -38,6 +38,7 @@ CPSC 255: Programming for Applications (Java)- Fall 2025
 # Professional Activities
 - IEEE Member (Professional)
 - Reviewer of journals and conference papers:
+  - ACM Computing Surveys, December 2025 (Journal)
   - PeerJ Computer Science, December 2025 (Journal) 
   - Data Mining and Knowledge Discovery, 2025 (Springer Nature Journal)
   - The International Journal of Electrical and Computer Engineering Systems, 2025 (IJECES)
