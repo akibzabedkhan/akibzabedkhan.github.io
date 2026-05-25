@@ -28,6 +28,7 @@ CPSC 255: Programming for Applications (Java)- Fall 2025
 <br> <br>
 
 # Recognitions and Scholarships
+- Faculty Development Grant, Provost's Office, Christopher Newport University, May 2026. <br>
 - 2nd place winner, Graduate Scholarly Forum (poster session), FIU, April 2025. <br>
 - Dissertation Fellowship, University Graduate School, FIU, Spring 2025 to Summer 2025. <br>
 - Travel Scholarship, 17th International Conference on Educational Data Mining, USA, 2024. <br>
