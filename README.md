@@ -18,6 +18,12 @@ ___
 Dr. [Agoritsa Polyzou](https://apolyzou123.github.io/apolyzou/), Assistant Professor, KFSCIS, FIU.
 <br> <br>
 
+# Research Assistants
+- Jacob Maurer, Junior, Computer Science, CNU <br>
+- Logan Ross, Senior, Computer Engineering, CNU <br>
+- Lillian Harley, MS in Computer Science, CNU <br>
+<br> <br>
+
 # Publications
 [Google Scholar profile of Dr. Khan](https://scholar.google.com/citations?user=wCqMfLEAAAAJ&hl=en).
 <br> <br>
@@ -30,7 +36,7 @@ CPSC 255: Programming for Applications (Java)- Fall 2025
 
 # Recognitions and Scholarships
 - **Faculty Development Grant**, Provost's Office, Christopher Newport University, May 2026. <br>
-- 2nd place winner, Graduate Scholarly Forum (poster session), FIU, April 2025. <br>
+- 2nd-place winner, Graduate Scholarly Forum (poster session), FIU, April 2025. <br>
 - Dissertation Fellowship, University Graduate School, FIU, Spring 2025 to Summer 2025. <br>
 - Travel Scholarship, 17th International Conference on Educational Data Mining, USA, 2024. <br>
 - Student Government Association (SGA) Graduate Scholarship, FIU, Fall 2023 to Spring 2024. <br>
