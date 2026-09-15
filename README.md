@@ -45,6 +45,7 @@ CPSC 255: Programming for Applications (Java)- Fall 2025
 
 # Professional Activities
 - IEEE Member (Professional)
+- ACM Member (Professional)
 - Reviewer of conference papers and journals:
   - EDM'2026: The International Conference on Educational Data Mining (Conference)
   - EAAI'2026: The Symposium on Educational Advances in Artificial Intelligence (Conference)
