@@ -29,8 +29,9 @@ Dr. [Agoritsa Polyzou](https://apolyzou123.github.io/apolyzou/), Assistant Profe
 <br> <br>
 
 # Teaching
+ENGR 213: Discrete Structures - Fall 2026 <br>
 CPSC 150: Introduction to Programming (Python)- Spring 2026 <br>
-CPSC 256: C/C++ Programming for Engineers and Scientists- Fall 2025, Spring 2026 <br>
+CPSC 256: C/C++ Programming for Engineers and Scientists- Fall 2025, Spring 2026, Fall 2026 <br>
 CPSC 255: Programming for Applications (Java)- Fall 2025
 <br> <br>
 
