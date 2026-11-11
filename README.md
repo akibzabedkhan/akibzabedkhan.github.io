@@ -48,6 +48,7 @@ CPSC 255: Programming for Applications (Java)- Fall 2025
 - IEEE Member (Professional)
 - ACM Member (Professional)
 - Reviewer of conference papers and journals:
+  - AAMAS'2027: The 26th International Conference on Autonomous Agents and Multiagent Systems (Conference)
   - EDM'2026: The International Conference on Educational Data Mining (Conference)
   - EAAI'2026: The Symposium on Educational Advances in Artificial Intelligence (Conference)
   - ACM Computing Surveys, December 2025 (Journal)
